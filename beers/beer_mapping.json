@@ -1,0 +1,104 @@
+{
+  "crisp": [
+    "American Pale Ale",
+    "Bohemian Pilsener",
+    "Classic German Pilsener",
+    "Cream Ale",
+    "Dortmunder/Helles",
+    "Golden Ale/Blond Ale",
+    "Klsch",
+    "Pale Lager",
+    "Premium Lager",
+    "Vienna",
+    "Wheat Ale",
+    "Zwickel/Keller/Landbier"
+  ],
+  "malty": [
+    "Amber Ale",
+    "Barley Wine",
+    "Brown Ale",
+    "Doppelbock",
+    "Dunkel",
+    "Eisbock",
+    "English Strong Ale",
+    "Heller Bock",
+    "Malt Liquor",
+    "Old Ale",
+    "Scotch Ale",
+    "Sweet Stout",
+    "Traditional Ale",
+    "Weizen Bock"
+  ],
+  "hoppy": [
+    "American Strong Ale",
+    "Black IPA",
+    "India Pale Ale (IPA)",
+    "Imperial/Double IPA",
+    "Premium Bitter/ESB",
+    "Pale Ale"
+  ],
+  "roasty": [
+    "Baltic Porter",
+    "Dry Stout",
+    "Foreign Stout",
+    "Imperial Stout",
+    "Imperial/Strong Porter",
+    "Porter",
+    "Stout"
+  ],
+  "fruity/spicy": [
+    "Belgian Ale",
+    "Belgian Strong Ale",
+    "Belgian White (Witbier)",
+    "German Hefeweizen",
+    "German Kristallweizen",
+    "Irish Ale",
+    "Saison",
+    "Lambic - Fruit"
+  ],
+  "sour": [
+    "Berliner Weisse",
+    "Lambic - Faro",
+    "Lambic - Gueuze",
+    "Lambic - Unblended",
+    "Sour Ale/Wild Ale"
+  ],
+  "smoky": [
+    "Smoked"
+  ],
+  "specialty": [
+    "Cider",
+    "Fruit Beer",
+    "Mead",
+    "Perry",
+    "Specialty Grain",
+    "Spice/Herb/Vegetable",
+    "Ice Cider/Perry",
+    "Low Alcohol",
+    "Sak - Daiginjo",
+    "Sak - Ginjo",
+    "Sak - Honjozo",
+    "Sak - Infused",
+    "Sak - Junmai",
+    "Sak - Koshu",
+    "Sak - Namasak",
+    "Sak - Nigori",
+    "Sak - Taru",
+    "Sak - Tokubetsu",
+    "Sak - Futsu-shu",
+    "Bire de Garde"
+  ],
+  "rich/hearty": [
+    "Abbey Dubbel",
+    "Abbey Tripel",
+    "Abt/Quadrupel",
+    "Altbier",
+    "Barley Wine",
+    "Dunkler Bock",
+    "English Pale Ale",
+    "Imperial Stout",
+    "Oktoberfest/Mrzen",
+    "Scotch Ale",
+    "Strong Pale Lager/Imperial Pils"
+  ]
+}
